@@ -1,4 +1,4 @@
-package io.docbot.fragment.servlet;
+package io.docbot.servlet3.fragment2.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

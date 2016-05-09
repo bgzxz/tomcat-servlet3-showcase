@@ -1,4 +1,4 @@
-package io.docbot.fragment.filter;
+package io.docbot.servlet3.fragment.filter;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebFilter;

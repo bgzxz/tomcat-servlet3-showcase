@@ -10,7 +10,7 @@
 
     <filter>
         <filter-name>fragment2Filter</filter-name>
-        <filter-class>io.docbot.fragment.filter.FragmentFilter1</filter-class>
+        <filter-class>io.docbot.servlet3.fragment2.filter.FragmentFilter1</filter-class>
     </filter>
     <filter-mapping>
         <filter-name>fragment2Filter</filter-name>
@@ -19,7 +19,7 @@
 
     <servlet>
         <servlet-name>fragment2Servlet1</servlet-name>
-        <servlet-class>io.docbot.fragment.servlet.FragmentServlet1</servlet-class>
+        <servlet-class>io.docbot.servlet3.fragment2.servlet.FragmentServlet1</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>fragment2Servlet1</servlet-name>
